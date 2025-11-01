@@ -1,0 +1,4 @@
+nombre,precio,cantidad
+Destornillador,500,12
+Alicate,700,16
+Pinza,1000,7
